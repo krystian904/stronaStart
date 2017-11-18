@@ -1,0 +1,29 @@
+
+#box {
+    background: red;
+    width: 60%;
+    margin: auto;
+}
+
+#left {
+    background: green;
+    width: 300px;
+    float:  left;
+}
+
+#right {
+    background:red;
+    
+    float:  left;
+}
+
+#button {
+    width: 100px;
+    height: 20px;
+    float: left;
+    background: pink;
+}
+
+.right {
+   display: none;
+}
